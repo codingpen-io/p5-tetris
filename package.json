@@ -8,7 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "p5": "0.10.2"
+    "p5": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
